@@ -1,6 +1,6 @@
 # Hi there, I'm geswanel. 👋
 I'm a software developer from Russia. Currenty I'm learning web development technologies with the emphasis on back-end (Python, Django etc). Also I really enjoy to solve algorithm problems. 
-[Here's my CV]()
+[Here's my CV](CV.pdf)
 
 ## Skills
 - **Back-End Development:** Python / Django / Django Rest Framework (DRF) / SQL
