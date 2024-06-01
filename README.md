@@ -20,4 +20,4 @@ I'm a software developer from Russia. Currenty I'm learning web development tech
 ## Planned
 - Grinding - my future project to gather different tools for self-management.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/geswanel) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/elveg-khunshaev-8157012a9/)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOunyJYq8T5XLFcT2CN1cHvUJIJlDWgZj5yA&s' alt='telegram' height='40'>](https://t.me/infysaram)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/geswanel) [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/elveg-khunshaev/)  [<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOunyJYq8T5XLFcT2CN1cHvUJIJlDWgZj5yA&s' alt='telegram' height='40'>](https://t.me/infysaram)  
