@@ -13,9 +13,9 @@ I'm a software developer from Russia. Currenty I'm learning web development tech
 -->
 
 ## My Repos
-1. ![Meta Back-End Certification](https://github.com/geswanel/MetaBackend) showing that I'm competent in various web technologies.
-2. ![Little Lemon](https://github.com/geswanel/LittleLemon) main projects from Meta courses to demonstrate that I'm capable to work with
-3. ![Algorithms](https://github.com/geswanel/Algorithms) demonstrating my competence in algorithms and data structures.
+1. ![Meta Back-End Developer Specialization](https://github.com/geswanel/MetaBackend) - notes and assignments.
+2. ![Little Lemon](https://github.com/geswanel/LittleLemon) main projects from Meta Specialization.
+3. ![Algorithms](https://github.com/geswanel/Algorithms) - algorithms and data structures solutions.
 
 ## Planned
 - Grinding - my future project to gather different tools for self-management.
